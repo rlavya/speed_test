@@ -1,0 +1,43 @@
+div, form {
+  margin: 1em auto;
+}
+#speedometer {
+  width: 500px;
+  height: 500px;
+}
+
+#controls {
+  width: 500px;
+}
+.download_div, .upload_div {
+    background-color: moccasin;
+    padding: 23px;
+    display: inline-block;
+}
+.begin_button {
+    display: inline-block;
+}
+.begin_button button {
+    padding: 20px;
+    border: 2px solid darkcyan;
+    background-color: cadetblue;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.outer_div {
+    text-align: center;
+    width: 50%;
+}
+.outer_div span {
+    margin-top: 10px;
+}
+.floatLeft {
+    float: left;
+}
+.floatRight {
+    float: right;
+}
+.margin0 {
+    margin: 0px;
+}
